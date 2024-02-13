@@ -5,7 +5,7 @@ public class test {
         System.out.println("print table ");
         int x =2;
         for(int i =1 ;i<11;i++){
-            System.out.println(i*x);
+            System.out.println("result = " +i*x);
         }
     }
 }
