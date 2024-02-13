@@ -1,2 +1,2 @@
 # java code 
-To Print table
+To Print table in java
